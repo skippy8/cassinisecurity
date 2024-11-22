@@ -1,0 +1,7 @@
+* Resources
+
+_Knowledge about satellite communication_
+
+https://en.wikipedia.org/wiki/Space_Communications_Protocol_Specifications
+
+
