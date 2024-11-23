@@ -8,11 +8,19 @@ Improve security of transmission with more secure communication protocol: Random
 Pre-generated strings for communication. What is the memory size on a satellite? What is the bandwidth usage of command channel?
 
 
-
 ** OTP
 
 Time-based OTP generation. Already used?
 
+
+** Proxy
+
+It is possible to communicate with a satellite only through a dedicated proxy
+
+
+** Port knocking
+
+Open a port/ip address only after a port knocking sequence is received
 
 
 ** Authorization
@@ -20,11 +28,9 @@ Time-based OTP generation. Already used?
 Isolate various users when sharing satellite resources among multiple users: 
 
 
-
 ** Multi-satellite authentication
 
 Multi-satellite authentication: Validate each communication with confirmation from other satellites nearby (Starlink especially, GPS also possible). Similar to blockchain mining validation.
-
 
 
 ** Geolocation confirmation
