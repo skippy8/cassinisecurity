@@ -1,0 +1,7 @@
+{
+  "id": "txn2",
+  "source1": "commandC",
+  "source2": "commandD",
+  "source3": "commandC",
+  "processed": false
+}
