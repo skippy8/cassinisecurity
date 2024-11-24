@@ -1,0 +1,35 @@
+* Multi-tenant 
+
+
+
+** Blockchain command & control
+
+Multiple communication channels to a satellite
+Validate each action on multiple satellites
+
+** Multi-satellite authentication
+
+Multi-satellite authentication: Validate each communication with confirmation from other satellites nearby (Starlink especially, GPS also possible). Similar to blockchain mining validation.
+
+
+** Links
+
+Blockchain Application Within a Multi-Sensor Satellite Architecture: https://ntrs.nasa.gov/citations/20180006549
+Onyx by J.P. Morgan launches blockchain in space: https://www.jpmorgan.com/technology/news/blockchain-in-space
+
+https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8401.pdf
+
+https://www.spacefoundation.org/wp-content/uploads/2019/07/Butler-Bryan_Protected-Satellite-C2.pdf
+
+https://www.lfdecentralizedtrust.org/projects/fabric
+
+https://hyperledger-fabric.readthedocs.io/en/release-2.5/
+https://github.com/hyperledger/fabric
+https://github.com/hyperledger/fabric-samples
+
+
+* Future
+Autonomous infrastructure in space X-Ender: https://www.x-ender.space/
+
+
+

@@ -1,0 +1,52 @@
+#+AUTHOR: Team Horus
+#+TITLE: Horus
+#+SUBTITLE: [[./horus.jpeg]]
+#+DATE: 2024-11-26
+#+EMAIL: team@horus.com
+#+LITERAL: 12%
+#+OPTIONS: date:nil num:nil toc:nil reveal_keyboard:t reveal_overview:t reveal_slide_number:t reveal_single_file:nil
+#+REVEAL_HLEVEL: 1
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_THEME: night
+#+REVEAL_INIT_OPTIONS: slideNumber:true, margin:0, speed:10
+
+#+REVEAL_TITLE_SLIDE: <h1>%t</h1>
+#+REVEAL_TITLE_SLIDE: <p>%s</p>
+
+* Problem
+** 
+[[./sat-attack.jpeg]]
+
+** 
+[[./sat-damage.jpeg]]
+
+* Solution
+** Old school
+[[./spaceshuttle.jpeg]]
+
+** Modern
+[[./blockchain.jpeg]]
+
+* How it works?
+** 
+[[./sat-channels.jpeg]]
+** 
+[[./sat-validation.jpeg]]
+
+
+* Technologies
+- Golang
+- Hyperledger Fabric
+
+
+* Future
+- Integrate into project X-ENDER
+
+
+* Team
+- Stepan
+- Roman
+- Afredo
+
+
+* Q&A
