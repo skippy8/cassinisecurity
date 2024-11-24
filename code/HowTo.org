@@ -9,10 +9,21 @@ Sleep Command: Adds a delay to ensure that transactions are committed before val
 
 
 * Running the Script
-Save the script as process_transactions.sh.
+Save the script as run.sh.
 
 Make the script executable with the command: chmod +x process_transactions.sh.
 
 Run the script by executing: ./process_transactions.sh.
 
 
+* Results
+
+Execution of the script results in 2 transactions being processed:
+- Transaction 1 (txn1): Will be processed because Source1 and Source2 are equal
+- Transaction 2 (txn2): Will be processed because Source1 and Source3 are equal
+- Transaction 3 (txn3): Will not be processed because none of the sources are equal
+
+
+* Multiple inputs
+
+Script validate-n.go is a modified version of the original script that is able to accept variable number of parameters.
