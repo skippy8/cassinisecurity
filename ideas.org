@@ -1,17 +1,7 @@
 * Ideas for Satellite communication hardening
 
 
-** Telemetry IDS
-
-- NORAD Telemetry
-
-Analyze NORAD open telemetry data and predict:
-- maintenance
-- targeting
-- security notification
-
-
-** Blockchain command confirmation
+** Blockchain command & control
 
 Multiple communication channels to a satellite
 Validate each action on multiple satellites
@@ -53,5 +43,15 @@ Isolate various users when sharing satellite resources among multiple users:
 ** Geolocation confirmation
 
 Critical operations must be confirmed from multiple ground stations. Detected by time and GPS. Usable for orbiting satellites.
+
+
+** Telemetry IDS
+
+- NORAD Telemetry
+
+Analyze NORAD open telemetry data and predict:
+- maintenance
+- targeting
+- security notification
 
 
