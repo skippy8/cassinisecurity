@@ -21,6 +21,11 @@ https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8401.pdf
 
 https://www.spacefoundation.org/wp-content/uploads/2019/07/Butler-Bryan_Protected-Satellite-C2.pdf
 
+https://www.lfdecentralizedtrust.org/projects/fabric
+
+https://hyperledger-fabric.readthedocs.io/en/release-2.5/
+https://github.com/hyperledger/fabric
+https://github.com/hyperledger/fabric-samples
 
 
 * Future
