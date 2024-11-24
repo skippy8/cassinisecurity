@@ -1,11 +1,33 @@
 * Ideas for Satellite communication hardening
 
 
+** Telemetry IDS
+
+- NORAD Telemetry
+
+Analyze NORAD open telemetry data and predict:
+- maintenance
+- targeting
+- security notification
+
+
+** Blockchain command confirmation
+
+Multiple communication channels to a satellite
+Validate each action on multiple satellites
+
+** Multi-satellite authentication
+
+Multi-satellite authentication: Validate each communication with confirmation from other satellites nearby (Starlink especially, GPS also possible). Similar to blockchain mining validation.
+
+
 ** Stronger encryption
 
 Improve security of transmission with more secure communication protocol: Random number generator with a seed. Beginning/end of each communication generate new 
 
 Pre-generated strings for communication. What is the memory size on a satellite? What is the bandwidth usage of command channel?
+
+CCSDS - encryption standards (blue/red/green book)
 
 
 ** OTP
@@ -28,12 +50,8 @@ Open a port/ip address only after a port knocking sequence is received
 Isolate various users when sharing satellite resources among multiple users: 
 
 
-** Multi-satellite authentication
-
-Multi-satellite authentication: Validate each communication with confirmation from other satellites nearby (Starlink especially, GPS also possible). Similar to blockchain mining validation.
-
-
 ** Geolocation confirmation
 
 Critical operations must be confirmed from multiple ground stations. Detected by time and GPS. Usable for orbiting satellites.
+
 
